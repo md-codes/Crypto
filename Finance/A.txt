@@ -1,0 +1,9 @@
+Question: Write a 500-word explanation of Bitcoin stock-to-flow model and make an argument for why it is a bad model
+
+Answer:
+
+The stock to flow is calculated that: the higher the Stock to Flow ratio, the less new supply enters the market relative to the total supply. The Stock to Flow model is basically a way to measure value in the scarcity of a particular resource. Bitcoin is a scarce digital resource that has compelling characteristics in comparable to gold or silver for their long term values.
+
+As interesting the stock to flow model is in the evaluation of resources, it is not a complete proof for Bitcoin because Bitcoin doesn’t have any other useful qualities other than supply scarcity, and It solely relies on the assumption as the model unlike gold’s scarcity, predictable flow, and global liquidity have made it a relatively stable store of value compared to fiat currencies, which are prone to devaluation. 
+
+Volatility should be consider in valuation of a resource, that being said Bitcoin’s volatility should also decrease over time.

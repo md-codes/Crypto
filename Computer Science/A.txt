@@ -1,0 +1,5 @@
+Question: 
+
+Answer:
+When the number whose series is being generated is large, there's a high chance of having memory overflow due to large stack space incurred during this process.
+And for smaller numbers, it uses more memory space than a typical loop because new memory space is allocated on top of calling function for each call.
